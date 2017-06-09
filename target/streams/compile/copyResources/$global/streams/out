@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/graham/chatSpark/src/main/resources/public,/home/graham/chatSpark/target/scala-2.10/classes/public)[0m
+[0m[[0mdebug[0m] [0m	(/home/graham/chatSpark/src/main/resources/public/index.html,/home/graham/chatSpark/target/scala-2.10/classes/public/index.html)[0m
+[0m[[0mdebug[0m] [0m	(/home/graham/chatSpark/src/main/resources/public/style.css,/home/graham/chatSpark/target/scala-2.10/classes/public/style.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/graham/chatSpark/src/main/resources/public/websocketDemo.js,/home/graham/chatSpark/target/scala-2.10/classes/public/websocketDemo.js)[0m
