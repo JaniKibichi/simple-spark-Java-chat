@@ -10,6 +10,7 @@ libraryDependencies += "org.json" % "json" % "20160810"
 
 libraryDependencies += "org.slf4j" % "slf4j-simple" % "1.7.21"
 
+libraryDependencies += "com.googlecode.json-simple" % "json-simple" % "1.1.1"
 
 
 

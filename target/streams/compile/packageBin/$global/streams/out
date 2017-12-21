@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/graham/code/sparkJavaChat/target/scala-2.12/chatspark_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChatWebSocketHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/graham/code/sparkJavaChat/target/scala-2.12/classes/ChatWebSocketHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/style.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/graham/code/sparkJavaChat/target/scala-2.12/classes/public/style.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/graham/code/sparkJavaChat/target/scala-2.12/classes/Chat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/graham/code/sparkJavaChat/target/scala-2.12/classes/public[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/graham/code/sparkJavaChat/target/scala-2.12/classes/public/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/websocketDemo.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/graham/code/sparkJavaChat/target/scala-2.12/classes/public/websocketDemo.js[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
